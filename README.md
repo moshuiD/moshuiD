@@ -2,6 +2,8 @@
 ### I am Chinese,so you can speak Chinese(简体中文)
 ### Now I am study to C++/C# 🌱
 ### I'm not a expert😄
+### My English is very poor🤔
+### You can find me on [bilibili and contact me📫](https://space.bilibili.com/273115635)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshuiD&count_private=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
