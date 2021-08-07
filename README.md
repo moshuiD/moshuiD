@@ -3,7 +3,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshuiD&count_private=true&theme=radical)  
 
-### I am Chinese,so you can speak Chinese(简体中文)
+### I am Chinese,so you can speak Chinese to me(简体中文)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&layout=compact&theme=cobalt">
 
 ### Now I am study to C++/C# 🌱
