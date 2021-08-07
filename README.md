@@ -6,7 +6,7 @@
 ### Now I am study to C++/C# 🌱
 ### I'm not a expert😄
 ### My English is very poor🤔  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">
 
 ### You can find me on [bilibili📫](https://space.bilibili.com/273115635) or [YouTube📫](https://www.youtube.com/channel/UCF5DHM5Mus1fQxKsaSzUlMg)  
 
