@@ -1,5 +1,5 @@
 ### Hi there 👋I am moshui
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
+<img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshuiD&count_private=true&theme=radical)  
 
