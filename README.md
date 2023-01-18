@@ -1,10 +1,10 @@
 ### Hi there 👋I am moshui
 <img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshuiD&count_private=true&theme=radical)  
+![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=moshuiD&count_private=true&theme=radical)  
 
 ### I am Chinese,so you can speak Chinese to me(简体中文)
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&layout=compact&theme=cobalt">
+<img align="right" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=moshuiD&layout=compact&theme=cobalt">
 
 ### Now I am study to C++/C# 🌱
 ### I'm not a expert😄
