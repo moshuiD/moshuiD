@@ -1,7 +1,6 @@
 ### Hi there 👋I am moshui
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshuiD&count_private=true&theme=radical)  
+<img align="right" src="https://my-readme-stats-nc7gkmw2j-moshuid.vercel.app/api/top-langs/?username=moshuiD&theme=cobalt">  
+![1](https://my-readme-stats-nc7gkmw2j-moshuid.vercel.app/api?username=moshuiD&count_private=true&theme=radicall)
 
 ### I am Chinese,so you can speak Chinese to me(简体中文)
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moshuiD&layout=compact&theme=cobalt">
