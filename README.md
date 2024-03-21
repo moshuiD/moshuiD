@@ -7,7 +7,7 @@
 <img align="right" src="https://my-readme-stats-nc7gkmw2j-moshuid.vercel.app/api/top-langs/?username=moshuiD&layout=compact&theme=cobalt">
 
 ### Now I am study to C++/C# 🌱
-### I'm not a expert😄
+### I'm not an expert😄
 ### My English is very poor🤔  
 
 
