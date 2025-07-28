@@ -10,6 +10,7 @@
 ### I am currently studying Windows kernel 🌱
 ### I usually play CTF, write code, and learn some shit
 ### I'm not an expert😄
+### I'm work for game anti-cheat
 
-### You can find me on [bilibili📫](https://space.bilibili.com/273115635) or [YouTube📫](https://www.youtube.com/channel/UCF5DHM5Mus1fQxKsaSzUlMg) 
+### You can find me on [Kanxue📫](https://bbs.kanxue.com/user-home-932553.htm) or [bilibili📫](https://space.bilibili.com/273115635) 
 ### My personal [website](https://www.moshui.eu.org/)(only Chinese 只有中文）
